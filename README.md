@@ -9,4 +9,13 @@ The main difference between RNN and LSTM is in terms of which one maintains info
 
 Reference : [What is the main difference between RNN and LSTM | NLP | RNN vs LSTM – Data Science Duniya (ashutoshtripathi.com)](https://ashutoshtripathi.com/2021/07/02/what-is-the-main-difference-between-rnn-and-lstm-nlp-rnn-vs-lstm/)
 
+RNN vs LSTM Node in Simple
+
+![alt text](https://github.com/easonlai/stock_forecast_lstm/blob/main/git-images/rnn-vs-lstm-2.png)
+
+RNN vs LSTM Node in Details
+
+![alt text](https://github.com/easonlai/stock_forecast_lstm/blob/main/git-images/rnn-vs-lstm.png)
+
+
 ***** All stock prediction price for demostration and reference only. *****
