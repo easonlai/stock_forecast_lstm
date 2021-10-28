@@ -12,6 +12,7 @@ Reference : [What is the main difference between RNN and LSTM | NLP | RNN vs LST
 RNN vs LSTM Node in Simple
 
 ![alt text](https://github.com/easonlai/stock_forecast_lstm/blob/main/git-images/rnn-vs-lstm-2.png)
+[Reference](https://www.researchgate.net/figure/RNN-v-s-LSTM-a-RNNs-use-their-internal-state-memory-to-process-sequences-of-inputs_fig1_341131167)
 
 RNN vs LSTM Node in Details
 
