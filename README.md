@@ -17,6 +17,6 @@ RNN vs LSTM Node in Simple
 RNN vs LSTM Node in Details
 
 ![alt text](https://github.com/easonlai/stock_forecast_lstm/blob/main/git-images/rnn-vs-lstm.png)
-
+[Reference](https://ashutoshtripathi.com/2021/07/02/what-is-the-main-difference-between-rnn-and-lstm-nlp-rnn-vs-lstm/)
 
 ***** All stock prediction price for demostration and reference only. *****
